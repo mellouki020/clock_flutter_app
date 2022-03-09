@@ -2,10 +2,5 @@
 
 A new Flutter project.
 
-## Getting Started
+![Clock App shocase](https://user-images.githubusercontent.com/95285088/157435564-11e752a1-548f-49a4-b896-6199957b1281.png)
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.dev/).
-
-For instructions integrating Flutter modules to your existing applications,
-see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-app).
